@@ -57,7 +57,7 @@
             bindings = <
 &kp TAB    &kp N1     &kp N2     &kp N3     &kp N4     &kp N5              &kp LEFT_BRACKET  &kp RBKT        &kp UP_ARROW  &kp CARET  &kp MINUS  &kp RC(BSPC)
 &kp RC(L)  &kp RC(A)  &kp RC(C)  &kp RC(V)  &kp RC(S)  &kp LEFT_CONTROL    &kp RC(Z)         &kp LEFT_ARROW  &kp DOWN      &kp RIGHT  &kp BSLH   &kp PG_UP
-&trans     &none      &none      &none      &none      &none               &kp RC(Y)         &none           &none         &none      &none      &kp PG_DN
+&kp RC(Y)  &none      &none      &none      &none      &none               &kp N6            &kp N7          &kp N8        &kp N9     &kp N0     &kp PG_DN
                                  &trans     &trans     &trans              &trans            &trans          &trans
             >;
         };
